@@ -1,0 +1,10 @@
+.PhoneInputInput {
+  border: none !important;
+  font: inherit;
+  height: 2.4375em;
+  padding: 4px 0 2px;
+  font-size: 1rem;
+  color: currentColor;
+  letter-spacing: inherit;
+  border-bottom: 1px solid lightgrey !important;
+}

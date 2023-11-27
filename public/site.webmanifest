@@ -1,0 +1,14 @@
+{
+    "name": "React-app",
+    "short_name": "React App",
+    "icons": [
+        {
+            "src": "/android-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#5F5D5D",
+    "display": "standalone"
+}
